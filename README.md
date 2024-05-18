@@ -10,5 +10,5 @@
 ---
 
 ## Qu'est-ce que c'est ?
-Ce dépôt Github est utilisé pour héberger mon sous-domaine **[terms.coopbot.xyz](https://terms.coopbot.xyz)**. Affichant la page **[coopbot.xyz/terms](https://coopbot.xyz/terms)**, venant du wiki de mon bot.
+Ce dépôt Github est utilisé pour héberger mon sous-domaine **[terms.coopbot.xyz](https://terms.coopbot.xyz)**, et affiche la page **[coopbot.xyz/terms](https://coopbot.xyz/terms)**, venant du wiki de mon bot.
 Cliquez [ici](https://coopbot.xyz) pour aller voir le site ou cliquez [ici](https://github.com/20syldev/doc-coopbot) pour aller voir le dépôt Github.
