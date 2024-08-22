@@ -3,7 +3,7 @@
 
   # Sous-domaine - Coop Terms - Wiki
   [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
-  [![Portfolio](https://img.shields.io/badge//doc&#8722;coopbot-3857ab)](https://github.com/20syldev/doc-coopbot)
+  [![Coop](https://img.shields.io/badge//doc&#8722;coopbot-3857ab)](https://github.com/20syldev/doc-coopbot)
 </div>
 
 ---
